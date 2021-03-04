@@ -1,0 +1,27 @@
+{
+    "asn_type": "None",
+    "asn_rule": "DMS_Level3_Base",
+    "version_id": null,
+    "code_version": "0.18.1",
+    "degraded_status": "No known degraded exposures in association.",
+    "program": "noprogram",
+    "constraints": "No constraints",
+    "asn_id": "a3001",
+    "target": "none",
+    "asn_pool": "none",
+    "products": [
+        {
+            "name": "dither",
+            "members": [
+                {
+                    "expname": "MIRIUranus_LONG/det_images_pipelined/det_image_seq1_MIRIFUSHORT_12LONGexp1_cal.fits",
+                    "exptype": "science"
+                },
+                {
+                    "expname": "MIRIUranus_LONG/det_images_pipelined/det_image_seq1_MIRIFULONG_34LONGexp1_cal.fits",
+                    "exptype": "science"
+                }
+            ]
+        }
+    ]
+}
